@@ -1,0 +1,182 @@
+Aug 10, 2025 10:31:16 PM Main main
+INFO: === RideSharingSimulation starting ===
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-3 started.
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-2 started.
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-4 started.
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-1 started.
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 1 for Passenger-1
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 2 for Passenger-2
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 3 for Passenger-3
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 4 for Passenger-4
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 5 for Passenger-5
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 6 for Passenger-6
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-1 started processing task 4 (passenger: Passenger-4)
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-3 started processing task 2 (passenger: Passenger-2)
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-2 started processing task 1 (passenger: Passenger-1)
+Aug 10, 2025 10:31:16 PM Main$Worker run
+INFO: Worker-4 started processing task 3 (passenger: Passenger-3)
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 7 for Passenger-7
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 8 for Passenger-8
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 9 for Passenger-9
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 10 for Passenger-10
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 11 for Passenger-11
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 12 for Passenger-12
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 13 for Passenger-13
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 14 for Passenger-14
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 15 for Passenger-15
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 16 for Passenger-16
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 17 for Passenger-17
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 18 for Passenger-18
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 19 for Passenger-19
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 20 for Passenger-20
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 21 for Passenger-21
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 22 for Passenger-22
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 23 for Passenger-23
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 24 for Passenger-24
+Aug 10, 2025 10:31:16 PM Main main
+INFO: Main enqueued task 25 for Passenger-25
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-3 completed task 2 -> Driver-10
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-3 started processing task 5 (passenger: Passenger-5)
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-4 completed task 3 -> Driver-1
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-4 started processing task 6 (passenger: Passenger-6)
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-1 completed task 4 -> Driver-7
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-1 started processing task 7 (passenger: Passenger-7)
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-2 completed task 1 -> Driver-4
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-2 started processing task 8 (passenger: Passenger-8)
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-1 completed task 7 -> Driver-7
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-1 started processing task 9 (passenger: Passenger-9)
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-3 completed task 5 -> Driver-3
+Aug 10, 2025 10:31:17 PM Main$Worker run
+INFO: Worker-3 started processing task 10 (passenger: Passenger-10)
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-4 completed task 6 -> Driver-8
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-4 started processing task 11 (passenger: Passenger-11)
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-1 completed task 9 -> Driver-7
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-1 started processing task 12 (passenger: Passenger-12)
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-2 completed task 8 -> Driver-12
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-2 started processing task 13 (passenger: Passenger-13)
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-4 completed task 11 -> Driver-10
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-4 started processing task 14 (passenger: Passenger-14)
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-3 completed task 10 -> Driver-19
+Aug 10, 2025 10:31:18 PM Main$Worker run
+INFO: Worker-3 started processing task 15 (passenger: Passenger-15)
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-1 completed task 12 -> Driver-3
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-1 started processing task 16 (passenger: Passenger-16)
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-4 completed task 14 -> Driver-12
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-4 started processing task 17 (passenger: Passenger-17)
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-3 completed task 15 -> Driver-13
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-3 started processing task 18 (passenger: Passenger-18)
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-2 completed task 13 -> Driver-6
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-2 started processing task 19 (passenger: Passenger-19)
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-3 completed task 18 -> Driver-2
+Aug 10, 2025 10:31:19 PM Main$Worker run
+INFO: Worker-3 started processing task 20 (passenger: Passenger-20)
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-4 completed task 17 -> Driver-8
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-4 started processing task 21 (passenger: Passenger-21)
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-1 completed task 16 -> Driver-6
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-1 started processing task 22 (passenger: Passenger-22)
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-2 completed task 19 -> Driver-6
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-2 started processing task 23 (passenger: Passenger-23)
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-3 completed task 20 -> Driver-17
+Aug 10, 2025 10:31:20 PM Main$Worker run
+INFO: Worker-3 started processing task 24 (passenger: Passenger-24)
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-1 completed task 22 -> Driver-16
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-1 started processing task 25 (passenger: Passenger-25)
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-4 completed task 21 -> Driver-11
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-4 received poison pill and will exit.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-4 terminating.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-3 completed task 24 -> Driver-16
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-3 received poison pill and will exit.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-3 terminating.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-2 completed task 23 -> Driver-3
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-2 received poison pill and will exit.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-2 terminating.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-1 completed task 25 -> Driver-10
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-1 received poison pill and will exit.
+Aug 10, 2025 10:31:21 PM Main$Worker run
+INFO: Worker-1 terminating.
+Aug 10, 2025 10:31:21 PM Main main
+INFO: All workers have finished processing.
+Aug 10, 2025 10:31:21 PM Main main
+INFO: Successfully wrote results to ride_results.txt
+Aug 10, 2025 10:31:21 PM Main main
+INFO: === RideSharingSimulation finished ===
